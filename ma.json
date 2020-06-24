@@ -35,8 +35,8 @@
 {"number":"33","name":"Cap Radio","description":"","logo":"/cap radio.png","streamUrl":"http://51.255.235.165:5548/stream/1/","yourmuzeId":"0","state":"1"}, 
 {"number":"35","name":"Radio France-Maghreb","description":null,"logo":"/france%20maghrib.jpeg","streamUrl":"http://broadcast.infomaniak.net/francemaghreb-high.mp3","yourmuzeId":"0","state":"1"},
 {"number":"36","name":"Radio France-Maghreb 2","description":null,"logo":"/France-Maghreb-2.png","streamUrl":"http://broadcast.infomaniak.net/francemaghreb2-high.mp3","yourmuzeId":"0","state":"1"},
-{"number":"37","name":"Radio Aktab","description":null,"logo":"/z_radio_radio_aktab.png","streamUrl":"http://sv3.vestaradio.com:4110","yourmuzeId":"0","state":"0"},
- 
+{"number":"37","name":"Radio Aktab","description":"","logo":"/z_radio_radio_aktab.png","streamUrl":"http://sv3.vestaradio.com:4110","yourmuzeId":"0","state":"0"},
+{"number":"38","name":"Radio star maroc","description":"","logo":"/Radio star maroc.jpg","streamUrl":"https://streamingv2.shoutcast.com/RadioStarMaroc","yourmuzeId":"0","state":"1"}, 
 {"number":"39","name":"BeurFM","description":null,"logo":"/beurfm.jpg","streamUrl":"http://broadcast.infomaniak.net/beurfm-high.mp3","yourmuzeId":"0","state":"1"},
  
 {"number":"41","name":"Maroc Music","description":null,"logo":"/Maroc-Music.jpg","streamUrl":"http://listen.radionomy.com/marocmusic","yourmuzeId":"0","state":"1"},
@@ -54,7 +54,6 @@
 {"number":"53","name":"Radio Dar Coran","description":"","logo":"/z_radio_dar_coran.png","streamUrl":"http://maahad.net:8000/radio.m3u","yourmuzeId":"0","state":"0"},
 {"number":"54","name":"Radio Marrakech","description":"http://87.229.45.44:8028/;stream.mp3","logo":"/z_radio_marrakech.png","streamUrl":"http://95.141.24.70:80","yourmuzeId":"0","state":"0"},
 {"number":"55","name":"Radio Soleil","description":"http://soleilparis.scdn.arkena.com/soleilparis.mp3","logo":"/z_radio_soleil.png","streamUrl":"http://heberg.radioludo.com:8009/stream","yourmuzeId":"0","state":"1"},
-{"number":"56","name":"Radio Star Maroc FM","description":"https://streamingv2.shoutcast.com/RadioStarMaroc?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3","logo":"/z_radio_star.png","streamUrl":"http://streaming.radionomy.com/radiostarmarocfm","yourmuzeId":"0","state":"1"},
 {"number":"57","name":"Radio TIFAWIN","description":"http://174.127.114.128:8080/","logo":"/z_radio_tifawin.png","streamUrl":"http://chtoukamusic.org/PL/mp3/2.mp3","yourmuzeId":"0","state":"0"},
 {"number":"59","name":"Radio Ajial","description":"http://198.136.56.226:7040\r\nhttp://216.55.179.147:9988/;\r\nhttp://195.154.156.183/radio/2870","logo":"/z_radio_ajial.png","streamUrl":"http://www.radioking.com/play/radio-ajial","yourmuzeId":"0","state":"0"},
 {"number":"60","name":"Maghreb 24 Radio","description":"","logo":"/z_radio_m24.png","streamUrl":"http://1521.live.streamtheworld.com/SAM07AAC287","yourmuzeId":"106303","state":"0"},
