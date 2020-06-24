@@ -58,7 +58,7 @@
 {"number":"57","name":"Radio TIFAWIN","description":"http://174.127.114.128:8080/","logo":"/z_radio_tifawin.png","streamUrl":"http://chtoukamusic.org/PL/mp3/2.mp3","yourmuzeId":"0","state":"0"},
 {"number":"59","name":"Radio Ajial","description":"http://198.136.56.226:7040\r\nhttp://216.55.179.147:9988/;\r\nhttp://195.154.156.183/radio/2870","logo":"/z_radio_ajial.png","streamUrl":"http://www.radioking.com/play/radio-ajial","yourmuzeId":"0","state":"0"},
 {"number":"60","name":"Maghreb 24 Radio","description":"","logo":"/z_radio_m24.png","streamUrl":"http://1521.live.streamtheworld.com/SAM07AAC287","yourmuzeId":"106303","state":"0"},
-{"number":"61","name":"Radio Star Maroc FM","description":"http://listen.radionomy.com/radiostarmarocfm","logo":"/z_radio_star.png","streamUrl":"http://streaming.radionomy.com/radiostarmarocfm","yourmuzeId":"0","state":"1"},
+{"number":"61","name":"Radio Star Maroc FM","description":"https://streamingv2.shoutcast.com/RadioStarMaroc","logo":"/z_radio_star.png","streamUrl":"http://streaming.radionomy.com/radiostarmarocfm","yourmuzeId":"0","state":"1"},
 {"number":"62","name":"Future Radio","description":"http://www.radionomy.com/en/radio/futuremoroccoenglishradio/share","logo":"/z_radio_future_radio.png","streamUrl":"http://listen.radionomy.com/futuremoroccoenglishradio","yourmuzeId":"0","state":"1"},
 {"number":"63","name":"Radio Imazighen","description":"http://37.58.75.162:8222//;","logo":"/z_radio_imazighen.png","streamUrl":"http://195.154.185.139/radio/388/stream/1619","yourmuzeId":"0","state":"0"},
 {"number":"64","name":"Radio Maroc Internationale","description":"","logo":"/z_radio_maroc_212.png","streamUrl":"http://streaming.radionomy.com/Maroc212","yourmuzeId":"0","state":"1"},
