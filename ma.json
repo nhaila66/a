@@ -22,8 +22,8 @@
 {"number":"20","name":"Radio Sawa Maroc","description":"http://media.alhurra.com/livestreams/radiosawanafr.asx","logo":"/sawamaroc.png","streamUrl":"http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06","yourmuzeId":"100883","state":"1"},
 {"number":"21","name":"Radio MARS","description":"http://radiomars.bcast.infomaniak.ch/radiomars-128.mp3","logo":"/radiomars.jpeg","streamUrl":"http://radiomars.ice.infomaniak.ch/radiomars-128.mp3","yourmuzeId":"0","state":"1"},
 {"number":"22","name":"Radio Plus Casablanca (راديو بلوس الدار البيضاء)","description":"","logo":"/radiopluscasablanca.png","streamUrl":"http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3","yourmuzeId":"0","state":"1"},
-{"number":"24","name":"Radio plus Agadir (راديو بلوس أكادير)","description":"","logo":"/Radio plus Agadir.jpg","streamUrl":"http://node-20.zeno.fm/bqdbb6hd0neuv?rj-ttl=5&rj-tok=AAABcYT7m2cAYhw_qV8YMbb0Bg","yourmuzeId":"0","state":"1"},
-{"number":"23","name":"Radio Plus Marrakech (راديو بلوس مراكش)","description":"","logo":"/radioplus-marrakech.jpg","streamUrl":"http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3","yourmuzeId":"0","state":"1"},
+{"number":"23","name":"Radio plus Agadir (راديو بلوس أكادير)","description":"","logo":"/Radio plus Agadir.jpg","streamUrl":"http://node-20.zeno.fm/bqdbb6hd0neuv?rj-ttl=5&rj-tok=AAABcYT7m2cAYhw_qV8YMbb0Bg","yourmuzeId":"0","state":"1"},
+{"number":"24","name":"Radio Plus Marrakech (راديو بلوس مراكش)","description":"","logo":"/radioplus-marrakech.jpg","streamUrl":"http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3","yourmuzeId":"0","state":"1"},
 {"number":"25","name":"Radio Anwarock (راديو أنوار روك)","description":null,"logo":"/anwarock.jpg","streamUrl":"http://listen.radionomy.com/anwa-rock","yourmuzeId":"0","state":"1"},
 {"number":"26","name":"Luxe Radio","description":"http://streaming.luxeradio.ma:8000/","logo":"/z_radio_luxe_radio.png","streamUrl":"http://streaming.luxeradio.ma:8000/listen.pls","yourmuzeId":"0","state":"2"},
 {"number":"27","name":"Moroccan Voice","description":null,"logo":"/z_radio_morrocan_voice.png","streamUrl":"http://www.moroccanvoice.com:8000","yourmuzeId":"0","state":"0"},
@@ -48,7 +48,7 @@
 {"number":"47","name":"Radio RIF Melody","description":"","logo":"/z_radio_rif_melody.png","streamUrl":"http://music.rifmelody.com/script-XwpD451s/Rif_City-2011/Mp3/04.Abdel%20Monaim%202011%20-%20Ma3lik%20Qimagh%20Da3zri.mp3","yourmuzeId":"79620","state":"1"},
 {"number":"48","name":"Radio AMARG N'SOUSS","description":"","logo":"/z_radio_amarg_nsouss.png","streamUrl":"http://listen.radionomy.com/radio-amarg-n-souss","yourmuzeId":"0","state":"1"},
 {"number":"49","name":"Geek Radio","description":null,"logo":"/z_radio_geek_radio.png","streamUrl":"http://listen.radionomy.com/geekradiomaroc","yourmuzeId":"0","state":"1"},
-{"number":"181","name":"راديو صوت ورزازات","description":"","logo":"/z_radio_sawt_ouarzazate.png","streamUrl":"http://109.169.15.20:7366/;","yourmuzeId":"0","state":"1"},    
+{"number":"50","name":"راديو صوت ورزازات","description":"","logo":"/z_radio_sawt_ouarzazate.png","streamUrl":"http://109.169.15.20:7366/;","yourmuzeId":"0","state":"1"},    
 {"number":"51","name":"Radio NESS","description":null,"logo":"/z_radio_ness.png","streamUrl":"http://radio.nessradio.net:8000/nessradio-64kbs.mp3","yourmuzeId":"0","state":"1"},
 {"number":"52","name":"Radio Campus Agadir","description":null,"logo":"/z_radio_campus_agadir.png","streamUrl":"http://listen.radionomy.com/campus-agadir-web-radio","yourmuzeId":"0","state":"1"},
 {"number":"53","name":"Radio Dar Coran","description":"","logo":"/z_radio_dar_coran.png","streamUrl":"http://maahad.net:8000/radio.m3u","yourmuzeId":"0","state":"0"},
@@ -153,9 +153,9 @@
 {"number":"157","name":"RADIO MAROC 212","description":"","logo":"/RADIO MAROC 212.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"},  
 {"number":"158","name":"MFJ RADIO BERKANE","description":"","logo":"/MFJ RADIO BERKANE.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"}, 
 
-{"number":"165","name":"hit radio francais","description":"","logo":"/hit radio francais.png","streamUrl":"https://french.ice.infomaniak.ch/french-128.mp3","yourmuzeId":"0","state":"1"},   
-{"number":"166","name":"Radio alwan(راديو ألوان)","description":"","logo":"/Radio alwan.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"},    
-{"number":"167","name":"Tamazgha Monde Radio","description":"","logo":"/Tamazgha Monde Radio.png","streamUrl":"http://usa18.fastcast4u.com/proxy/uytzompv?mp=/1","yourmuzeId":"0","state":"1"}     
+{"number":"159","name":"hit radio francais","description":"","logo":"/hit radio francais.png","streamUrl":"https://french.ice.infomaniak.ch/french-128.mp3","yourmuzeId":"0","state":"1"},   
+{"number":"160","name":"Radio alwan(راديو ألوان)","description":"","logo":"/Radio alwan.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"},    
+{"number":"161","name":"Tamazgha Monde Radio","description":"","logo":"/Tamazgha Monde Radio.png","streamUrl":"http://usa18.fastcast4u.com/proxy/uytzompv?mp=/1","yourmuzeId":"0","state":"1"}     
    
  
  
