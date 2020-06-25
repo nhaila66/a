@@ -25,7 +25,7 @@
 {"number":"23","name":"Radio plus Agadir (راديو بلوس أكادير)","description":"","logo":"/Radio plus Agadir.jpg","streamUrl":"http://node-20.zeno.fm/bqdbb6hd0neuv?rj-ttl=5&rj-tok=AAABcYT7m2cAYhw_qV8YMbb0Bg","yourmuzeId":"0","state":"1"},
 {"number":"24","name":"Radio Plus Marrakech (راديو بلوس مراكش)","description":"","logo":"/radioplus-marrakech.jpg","streamUrl":"http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3","yourmuzeId":"0","state":"1"},
 {"number":"25","name":"Radio Anwarock (راديو أنوار روك)","description":null,"logo":"/anwarock.jpg","streamUrl":"http://listen.radionomy.com/anwa-rock","yourmuzeId":"0","state":"1"},
-{"number":"26","name":"Luxe Radio","description":"http://streaming.luxeradio.ma:8000/","logo":"/z_radio_luxe_radio.png","streamUrl":"http://streaming.luxeradio.ma:8000/listen.pls","yourmuzeId":"0","state":"2"},
+{"number":"26","name":"Luxe Radio","description":"http://streaming.luxeradio.ma:8000/","logo":"/z_radio_luxe_radio.png","streamUrl":"http://streaming.luxeradio.ma:8000/listen.pls","yourmuzeId":"0","state":"0"},
 {"number":"27","name":"Moroccan Voice","description":null,"logo":"/z_radio_morrocan_voice.png","streamUrl":"http://www.moroccanvoice.com:8000","yourmuzeId":"0","state":"0"},
 {"number":"28","name":"Atlantic Radio","description":null,"logo":"/atlantic_radio.jpg","streamUrl":"http://68.168.117.130:8000/","yourmuzeId":"0","state":"1"},
 {"number":"29","name":"MedRadio","description":null,"logo":"/med-radio.png","streamUrl":"http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3","yourmuzeId":"0","state":"1"},
@@ -152,11 +152,16 @@
 {"number":"156","name":"RADIO BEIN MAROC","description":"","logo":"/RADIO BEIN MAROC.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"}, 
 {"number":"157","name":"RADIO MAROC 212","description":"","logo":"/RADIO MAROC 212.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"},  
 {"number":"158","name":"MFJ RADIO BERKANE","description":"","logo":"/MFJ RADIO BERKANE.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"}, 
-
 {"number":"159","name":"hit radio francais","description":"","logo":"/hit radio francais.png","streamUrl":"https://french.ice.infomaniak.ch/french-128.mp3","yourmuzeId":"0","state":"1"},   
 {"number":"160","name":"Radio alwan(راديو ألوان)","description":"","logo":"/Radio alwan.png","streamUrl":"http://streaming.radionomy.com/JamendoLounge","yourmuzeId":"0","state":"1"},    
 {"number":"161","name":"Tamazgha Monde Radio","description":"","logo":"/Tamazgha Monde Radio.png","streamUrl":"http://usa18.fastcast4u.com/proxy/uytzompv?mp=/1","yourmuzeId":"0","state":"1"},     
+{"number":"161","name":"Hit Radio RnB","description":"","logo":"/Tamazgha Monde Radio.png","streamUrl":"http://rnb.ice.infomaniak.ch/rnb-128.mp3?hash","yourmuzeId":"0","state":"1"},     
+{"number":"161","name":"Tamazgha Monde Radio","description":"","logo":"/Tamazgha Monde Radio.png","streamUrl":"http://usa18.fastcast4u.com/proxy/uytzompv?mp=/1","yourmuzeId":"0","state":"1"},     
+{"number":"161","name":"Tamazgha Monde Radio","description":"","logo":"/Tamazgha Monde Radio.png","streamUrl":"http://usa18.fastcast4u.com/proxy/uytzompv?mp=/1","yourmuzeId":"0","state":"1"},     
+     
 
+ 
+ 
  
  
 {"number":"339","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
