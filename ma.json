@@ -107,7 +107,7 @@
 {"number":"115","name":"radio hoceima(إذاعة الحسيمة الجهوية)","description":"","logo":"/hoceima.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"116","name":"SNRT Laayoune","description":"","logo":"/laayoune.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"0"},
 {"number":"117","name":"Radio Marrakeh(إذاعة مراكش الجهوية)","description":"","logo":"/marrakech.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
- 
+{"number":"118","name":"نجوم FM 100.6","description":"","logo":"/نجوم FM 100.6.jpg","streamUrl":"https://reach-audio.esteam.rocks/radio/8000/live.mp3","yourmuzeId":"0","state":"1"},  
 {"number":"119","name":"Radio Oujda (إذاعة وجدة المحلية)","description":"","logo":"/oujda.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"120","name":"radio tanger(إذاعة طنجة الجهوية)","description":"","logo":"/tanger.png","streamUrl":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"121","name":"radio tetouan(إذاعة تطوان الجهوية)","description":"","logo":"/tetouan.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
