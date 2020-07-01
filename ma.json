@@ -39,7 +39,7 @@
 {"number":"36","name":"Radio France-Maghreb 2","description":null,"logo":"/France-Maghreb-2.png","streamUrl":"http://broadcast.infomaniak.net/francemaghreb2-high.mp3","yourmuzeId":"0","state":"1"},
 {"number":"37","name":"Radio Aktab","description":"","logo":"/z_radio_radio_aktab.png","streamUrl":"http://sv3.vestaradio.com:4110","yourmuzeId":"0","state":"0"},
 {"number":"38","name":"Radio star maroc","description":"","logo":"/Radio star maroc.jpg","streamUrl":"https://streamingv2.shoutcast.com/RadioStarMaroc","yourmuzeId":"0","state":"1"}, 
-{"number":"39","name":"1 أضواء إف إم-adwaa fm","description":"","logo":"/Aأضواء إف إم.jpg","streamUrl":"http://stream.zeno.fm/5bxh2nh0x1zuv","yourmuzeId":"0","state":"1"}, 
+{"number":"39","name":"1 أضواء إف إم-adwaa fm","description":"","logo":"/adwaa1.png","streamUrl":"http://stream.zeno.fm/5bxh2nh0x1zuv","yourmuzeId":"0","state":"1"}, 
 {"number":"40","name":"2 أضواء إف إم-adwaa fm","description":null,"logo":"/adwaa2.png","streamUrl":"http://stream.zeno.fm/vrrtqsh0x1zuv","yourmuzeId":"0","state":"1"},
 {"number":"41","name":"3 أضواء إف إم-adwaa fm","description":null,"logo":"/adwaa3.png","streamUrl":"http://stream.zeno.fm/x4451xh0x1zuv","yourmuzeId":"0","state":"1"},    
 {"number":"42","name":"4 أضواء إف إم-adwaa fm","description":null,"logo":"/adwaa4.png","streamUrl":"http://stream.zeno.fm/8wrs2bh0x1zuv","yourmuzeId":"0","state":"1"},
