@@ -38,10 +38,12 @@
 {"number":"37","name":"Radio Aktab","description":"","logo":"/z_radio_radio_aktab.png","streamUrl":"http://sv3.vestaradio.com:4110","yourmuzeId":"0","state":"0"},
 {"number":"38","name":"Radio star maroc","description":"","logo":"/Radio star maroc.jpg","streamUrl":"https://streamingv2.shoutcast.com/RadioStarMaroc","yourmuzeId":"0","state":"1"}, 
 {"number":"39","name":"BeurFM","description":null,"logo":"/beurfm.jpg","streamUrl":"http://broadcast.infomaniak.net/beurfm-high.mp3","yourmuzeId":"0","state":"1"},
+{"number":"39","name":"أضواء إف إم 2","description":null,"logo":"/أضواء إف إم 2.jpg","streamUrl":"http://stream.zeno.fm/vrrtqsh0x1zuv","yourmuzeId":"0","state":"1"},
  
 {"number":"41","name":"Maroc Music","description":null,"logo":"/Maroc-Music.jpg","streamUrl":"http://listen.radionomy.com/marocmusic","yourmuzeId":"0","state":"1"},
 {"number":"42","name":"Radio MFJ","description":null,"logo":"/z_radio_mfj.png","streamUrl":"http://listen.radionomy.com/mfjradio","yourmuzeId":"0","state":"1"},
- 
+ {"number":"39","name":"BeurFM","description":null,"logo":"/beurfm.jpg","streamUrl":"http://broadcast.infomaniak.net/beurfm-high.mp3","yourmuzeId":"0","state":"1"},
+
 {"number":"44","name":"Mix4Radio","description":"http://direct.mix4radio.com:8043","logo":"/z_radio_mix4radio.png","streamUrl":"http://live.mix4radio.com:8029/stream?type=.mp3","yourmuzeId":"0","state":"0"},
 {"number":"45","name":"DNC Radio","description":null,"logo":"/z_radio_dnc.png","streamUrl":"http://listen.radionomy.com/dnc","yourmuzeId":"0","state":"1"},
 {"number":"46","name":"Radio Chichaoua","description":"","logo":"/z_radio_chichaoua.png","streamUrl":"http://50.115.124.196:43066","yourmuzeId":"0","state":"0"},
