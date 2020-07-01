@@ -114,6 +114,14 @@
 {"number":"119","name":"Radio Oujda (إذاعة وجدة المحلية)","description":"","logo":"/oujda.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"120","name":"radio tanger(إذاعة طنجة الجهوية)","description":"","logo":"/tanger.png","streamUrl":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"121","name":"radio tetouan(إذاعة تطوان الجهوية)","description":"","logo":"/tetouan.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"122","name":"BBC Radio","description":"","logo":"/BBC Radio.jpg","streamUrl":"http://sc59.lon.llnw.net:80/stream/bbcmedia_radio1_mf_p","yourmuzeId":"0","state":"1"},
+{"number":"123","name":"BBC Radio 5 live","description":"","logo":"/BBC Radio 5 live.jpg","streamUrl":"http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p","yourmuzeId":"0","state":"1"},
+{"number":"124","name":"Allzic Radio Orientale","description":"","logo":"/Allzic Radio Orientale.jpg","streamUrl":"http://allzic33.ice.infomaniak.ch/allzic33.mp3","yourmuzeId":"0","state":"1"},
+{"number":"125","name":"Allzic Radio Années 2000","description":"","logo":"/Allzic Radio Années 2000.png","streamUrl":"http://allzic49.ice.infomaniak.ch/allzic49.mp3","yourmuzeId":"0","state":"1"},
+{"number":"126","name":"radio tetouan(إذاعة تطوان الجهوية)","description":"","logo":"/tetouan.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"127","name":"radio tetouan(إذاعة تطوان الجهوية)","description":"","logo":"/tetouan.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"128","name":"radio tetouan(إذاعة تطوان الجهوية)","description":"","logo":"/tetouan.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
+{"number":"129","name":"radio tetouan(إذاعة تطوان الجهوية)","description":"","logo":"/tetouan.png","streamUrl":"http://cdn-hls.globecast.tv/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8","yourmuzeId":"0","state":"1"},
 
 
  
