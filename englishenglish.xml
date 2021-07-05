@@ -4,6 +4,10 @@
 <station name="CapRadio" image="https://raw.githubusercontent.com/nhaila66/a/master/capradio.png" link="https://eu8.fastcast4u.com/proxy/caprad00?mp=/1" />
 <station name="ChadaFm" image="https://static.mytuner.mobi/media/radios-150px/wv2FUEUrgH.png" link="https://chadafm.ice.infomaniak.ch/chadafm-high.mp3" />
 <station name="MFMRadio" image="https://raw.githubusercontent.com/nhaila66/a/master/mfm.png" link="https://streamer.eagrpservices.com/audio/mfmradio.ogg" />
+ <station name="Medina FM" image="https://raw.githubusercontent.com/nhaila66/a/master/medinafm.jpg" link="http://medinafm.ice.infomaniak.ch/medinafm-64.mp3" />
+<station name="Radio Sawa" image="https://raw.githubusercontent.com/nhaila66/a/master/sawamaroc.png" link="http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06" />
+<station name="Radio MARS" image="https://raw.githubusercontent.com/nhaila66/a/master/radiomars.jpeg" link="http://radiomars.ice.infomaniak.ch/radiomars-128.mp3" />
+<station name="Radio Plus" image="https://raw.githubusercontent.com/nhaila66/a/master/radiopluscasablanca.png" link="http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3" />
 <station name="011.FM" image="https://static.mytuner.mobi/media/tvos_radios/kfrvk3wzcwwh.png" link="https://listen.011fm.com/stream18" /> 
 <station name="Radio 2M" image="https://raw.githubusercontent.com/nhaila66/a/master/2mradio.jpg" link="https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist.m3u8" />
 <station name="Medi1 Radio" image="https://raw.githubusercontent.com/nhaila66/a/master/midi1.jpg" link="http://streaming07.mit.ovea.com/medi1" />
@@ -61,8 +65,4 @@
 <station name="HITRADIO MGHARBA" image="https://raw.githubusercontent.com/nhaila66/a/master/mgharba.png" link="http://mgharba.ice.infomaniak.ch/mgharba-128.mp3" />
 <station name="HITRADIO RB" image="https://raw.githubusercontent.com/nhaila66/a/master/rnb.png" link="http://rnb.ice.infomaniak.ch/rnb-128.mp3" />
 <station name="Chada FM" image="https://raw.githubusercontent.com/nhaila66/a/master/chadafm.png" link="http://broadcast.infomaniak.net/chadafm-high.mp3" />
-<station name="Medina FM" image="https://raw.githubusercontent.com/nhaila66/a/master/medinafm.jpg" link="http://medinafm.ice.infomaniak.ch/medinafm-64.mp3" />
-<station name="Radio Sawa Maroc" image="https://raw.githubusercontent.com/nhaila66/a/master/sawamaroc.png" link="http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06" />
-<station name="Radio MARS" image="https://raw.githubusercontent.com/nhaila66/a/master/radiomars.jpeg" link="http://radiomars.ice.infomaniak.ch/radiomars-128.mp3" />
-<station name="Radio Plus Casablanca (راديو بلوس الدار البيضاء)" image="https://raw.githubusercontent.com/nhaila66/a/master/radiopluscasablanca.png" link="http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3" />
 </channel>
