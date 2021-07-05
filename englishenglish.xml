@@ -65,6 +65,96 @@
 <station name="HITRADIO MGHARBA" image="https://raw.githubusercontent.com/nhaila66/a/master/mgharba.png" link="http://mgharba.ice.infomaniak.ch/mgharba-128.mp3" />
 <station name="HITRADIO RB" image="https://raw.githubusercontent.com/nhaila66/a/master/rnb.png" link="http://rnb.ice.infomaniak.ch/rnb-128.mp3" />
 <station name="Chada FM" image="https://raw.githubusercontent.com/nhaila66/a/master/chadafm.png" link="http://broadcast.infomaniak.net/chadafm-high.mp3" />
+<station name="إذاعة الشيخ عبد العزيز الأحمد" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ عبد العزيز الأحمد.jpg" link="http://quraan.us:9914/;*.mp3" />
+<station name="إذاعة القارئ الشيخ عبدالهادي أحمد كناكري" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ الشيخ عبدالهادي أحمد كناكري.jpg" link="http://live.mp3quran.net:9850/;" />
+<station name="إذاعة الشيخ عبد المحسن العبيكان" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ عبد المحسن العبيكان.jpg" link="http://live.mp3quran.net:9854/;.mp3" />
+<station name="إذاعة الشيخ عبد المحسن القاسم" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ عبد المحسن القاسم.jpg" link="http://quraan.us:9842/;*.mp3" />
+<station name="إذاعة القارئ عبد الرشيد صوفي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ عبد الرشيد صوفي.jpg" link="http://server2.quraan.us:9826/;*.mp3" />
+<station name="إذاعة القارئ عبدالودود حنيف" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ عبد الودود حنيف.jpg" link="http://live.mp3quran.net:9848/;" />
+<station name="إذاعة الشيخ عبد الله عواد الجهني" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ عبد الله عواد الجهني.jpg" link="http://server2.quraan.us:9910/;*.mp3" />
+<station name="إذاعة القارئ الشيخ عبدالله المطرود" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ عبدالله المطرود.jpg" link="http://live.mp3quran.net:9858/;" />
+<station name="إذاعة الشيخ عبد الله خياط" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ عبد الله خياط.jpg" link="http://server2.quraan.us:9908/;*.mp3" />
+<station name="إذاعة القارئ الدوكالي محمد" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ الدوكالي محمد.jpg" link="http://server2.quraan.us:9818/;*.mp3" />
+<station name="إذاعة القارئ الشيخ عادل الكلباني" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ الشيخ عادل الكلباني.jpg" link="http://live.mp3quran.net:9874/;" />
+<station name="إذاعة القارئ عادل ريان" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ عادل ريان.jpg" link="http://live.mp3quran.net:9872/;" />
+<station name="إذاعة القارئ احمد الحواشي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ احمد الحواشي.jpg" link="http://live.mp3quran.net:9928/;" />
+<station name="إذاعة أحمد خضر الطرابلسي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ أحمد خضر الطرابلسي.jpg" link="http://server2.quraan.us:9820/;*.mp3" />
+<station name="إذاعة القارئ الشيخ أحمد نعينع" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ أحمد نعينع.png" link="http://live.mp3quran.net:9904/;" />
+<station name="القارئ أحمد صابر" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ أحمد صابر.jpg" link="http://live.mp3quran.net:8006/;" />
+<station name="إذاعة القارئ الشيخ أحمد عامر" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ الشيخ أحمد عامر.jpg" link="http://live.mp3quran.net:9920/;" />
+<station name="إذاعة الشيخ أكرم العلاقمي" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ أكرم العلاقمي.jpg" link="http://live.mp3quran.net:8006/;" />
+<station name="إذاعة القارئ ياسين الجزائري" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ ياسين الجزائري.jpg" link="http://server2.quraan.us:9802/;*.mp3" />
+<station name="إذاعة القارئ الفاتح الزبير" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الفاتح الزبير.jpg" link="http://server2.quraan.us:9832/;*.mp3" />
+<station name="إذاعة القارئ الشيخ علي حجاج السويسي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ الشيخ علي حجاج السويسي.jpg" link="http://live.mp3quran.net:9842/;" />
+<station name="إذاعة الشيخ عبد الله علي جابر" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة الشيخ عبد الله علي جابر.jpg" link="http://quraan.us:9912/;*.mp3" />
+<station name="إذاعة القارئ العيون الكوشي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ العيون الكوشي.jpg" link="http://quraan.us:9876/;*.mp3" />
+<station name="إذاعة الشيخ هاني الرفاعي" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة الشيخ هاني الرفاعي.jpg" link="http://quraan.us:9902/;*.mp3" />
+<station name="إذاعة القارئ الشيخ حاتم فريد الواعر" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ حاتم فريد الواعر.png" link="http://live.mp3quran.net:9898/;" />
+<station name="إذاعة الشيخ إبراهيم الأخضر" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ إبراهيم الأخضر.jpg" link="http://server2.quraan.us:9840/;*.mp3" />
+<station name="إذاعة القارئ إبراهيم الدوسري" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ إبراهيم الدوسري.jpg" link="http://server2.quraan.us:9812/;*.mp3" />
+<station name="إذاعة الشيخ إدريس أبكر" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة الشيخ إدريس أبكر.jpg" link="http://server2.quraan.us:9300/;*.mp3" />
+<station name="إذاعة القارئ عماد زهير حافظ" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ عماد زهير حافظ.jpg" link="http://live.mp3quran.net:9840/;" />
+<station name="اذاعة الشيخ جمعان العصيمي" image="https://raw.githubusercontent.com/nhaila66/a/master/اذاعة الشيخ جمعان العصيمي.jpg" link="http://live.mp3quran.net:9950/;.mp3" />
+<station name="إذاعة القارئ جمال شاكر عبدالله" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ جمال شاكر عبدالله.jpg" link="http://live.mp3quran.net:9900/;" />
+<station name="إذاعة القارئ خالد عبد الكافي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ خالد عبد الكافي.jpg" link="http://live.mp3quran.net:9894/;" />
+<station name="إذاعة القارئ الشيخ خالد المهنا" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ خالد المهنا.png" link="http://live.mp3quran.net:9896/;" />
+<station name="إذاعة القارئ الشيخ ماهر شخاشير" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ ماهر شخاشير.png" link="http://live.mp3quran.net:9836/;" />
+<station name="إذاعة القارئ محمود الرفاعي" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ محمود الرفاعي.jpg" link="http://live.mp3quran.net:9818/;" />
+<station name="إذاعة القارئ الشيخ محمود الشيمي" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ محمود الشيمي.png" link="http://live.mp3quran.net:9812/;" />
+<station name="إذاعة القارئ  محمد عبد الكريم " image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ محمد عبد الكريم.jpg" link="http://live.mp3quran.net:8006/;" />
+<station name="إذاعة القارئ محمد عبدالحكيم سعيد العبدالله" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ محمد عبدالحكيم سعيد العبدالله.jpg" link="http://live.mp3quran.net:9816/;" />
+<station name="إذاعة الشيخ محمد أيوب" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة الشيخ محمد أيوب.jpg" link="http://server2.quraan.us:9896/;*.mp3" />
+<station name="إذاعة القارئ مفتاح السلطني" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ مفتاح السلطني.jpg" link="ttp://server2.quraan.us:9828/;*.mp3" />
+<station name="إذاعة القارئ الشيخ محمد رشاد الشريف" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ محمد رشاد الشريف.png" link="http://live.mp3quran.net:9830/;" />
+<station name="إذاعة القارئ محمد صالح عالم شاه" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ محمد صالح عالم شاه.jpg" link="http://live.mp3quran.net:8006/;" />
+<station name="إذاعة الشيخ محمد اللحيدان" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة الشيخ محمد اللحيدان.jpg" link="http://server2.quraan.us:9898/;*.mp3" />
+<station name="إذاعة القارئ الشيخ محمد عثمان خان" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ محمد عثمان خان.png" link="http://live.mp3quran.net:9820/;" />
+<station name="إذاعة القارئ الشيخ موسى بلال" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ موسى بلال.png" link="http://live.mp3quran.net:9786/;" />
+<station name="إذاعة القارئ الشيخ مصطفى اللاهوني" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ مصطفى اللاهوني.png" link="http://live.mp3quran.net:9798/;" />
+<station name="إذاعة القارئ مصطفى رعد العزاوي" image="https://raw.githubusercontent.com/nhaila66/a/master/مصطفى رعد العزاوي.jpg" link="http://live.mp3quran.net:9796/;" />
+<station name="إذاعة القارئ نبيل الرفاعي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ نبيل الرفاعي.jpg" link="http://live.mp3quran.net:9782/;" />
+<station name="إذاعة القارئ نعمة الحسان" image="https://raw.githubusercontent.com/nhaila66/a/master/نعمة الحسان.jpg" link="http://206.72.199.178:9994/listen.pls" />
+<station name="إذاعة القارئ صابر عبد الحكيم" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ صابر عبد الحكيم.jpg" link="http://live.mp3quran.net:9952/;" />
+<station name="إذاعة القارئ سهل ياسين" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ سهل ياسين.jpg" link="http://live.mp3quran.net:9888/;" />
+<station name="إذاعة القارئ الشيخ صلاح البدير" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ الشيخ صلاح البدير.jpg" link="http://live.mp3quran.net:9882/;" />
+<station name="إذاعة القارئ صلاح الهاشم" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ صلاح الهاشم.jpg" link="http://live.mp3quran.net:9880/;" />
+<station name="إذاعة القارئ صلاح بوخاطر" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ صلاح بوخاطر.jpg" link="http://live.mp3quran.net:9878/;" />
+<station name="إذاعة القارئ سيد رمضان" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ سيد رمضان.jpg" link="http://live.mp3quran.net:9886/;" />
+<station name="القارئ شيرزاد عبدالرحمن طاهر" image="https://raw.githubusercontent.com/nhaila66/a/master/شيرزاد عبدالرحمن طاهر.jpg" link="http://live.mp3quran.net:9884/;" />
+<station name="إذاعة القارئ الشيخ طارق عبدالغني دعوب" image="https://raw.githubusercontent.com/nhaila66/a/master/طارق عبدالغني دعوب.jpg" link="http://live.mp3quran.net:9876/;" />
+<station name="إذاعة الشيخ توفيق الصايغ" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ توفيق الصايغ.jpg" link="http://quraan.us:9796/;*.mp3" />
+<station name="إذاعة القارئ عمر القزابري" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ عمر القزابري.jpg" link="http://server2.quraan.us:9808/;*.mp3" />
+<station name="إذاعة القارئ وليد النائحي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ وليد النائحي.jpg" link="http://live.mp3quran.net:9778/;" />
+<station name="إذاعة القارئ يحيى حوا" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ يحيى حوا.jpg" link="http://live.mp3quran.net:9772/;" />
+<station name="إذاعة القارئ ياسر القرشي" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ ياسر القرشي.jpg" link="http://live.mp3quran.net:9776/;" />
+<station name="إذاعة القارئ ياسر المزروعي" image="https://raw.githubusercontent.com/nhaila66/a/master/القارئ ياسر المزروعي.jpg" link="http://server2.quraan.us:9822/;*.mp3" />
+<station name="إذاعة القارئ الشيخ يوسف الشويعي" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ يوسف الشويعي.png" link="http://live.mp3quran.net:9770/;" />
+<station name="إذاعة القارئ الشيخ يوسف بن نوح أحمد" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة القارئ الشيخ يوسف بن نوح أحمد.png" link="http://206.72.199.178:9994/listen.pls" />
+<station name="إذاعة الشيخ زكي داغستاني" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة الشيخ زكي داغستاني.jpg" link="http://server2.quraan.us:9792/;*.mp3" />  
+<station name="ماهر المعيقل" image="https://raw.githubusercontent.com/nhaila66/a/master/m3ay9li.jpg" link="http://server2.quraan.us:9856/;*.mp3" />
+<station name="ياسر الدوسري" image="https://raw.githubusercontent.com/nhaila66/a/master/dawsari.jpg" link="http://quraan.us:9884/;*.mp3" />
+<station name="ناصر القطامي" image="https://raw.githubusercontent.com/nhaila66/a/master/elqatami.jpg" link="http://server2.quraan.us:9886/;*.mp3" />
+<station name="الشيخ مصطفي اسماعيل" image="https://raw.githubusercontent.com/nhaila66/a/master/Mustafa_Ismail.jpg" link="http://live.mp3quran.net:9800/;" />
+<station name="الشيخ محمد جبريل" image="https://raw.githubusercontent.com/nhaila66/a/master/Mohammed-Jebreil.jpg" link="http://quraan.us:9894/" />
+<station name="إذاعة الفتاوى" image="https://raw.githubusercontent.com/nhaila66/a/master/إذاعة الفتاوى.jpg" link="http://live.mp3quran.net:8014/" /> 	
+<station name="اذاعة السنة النبوية" image="https://raw.githubusercontent.com/nhaila66/a/master/302.png.jpg" link="http://radio2.tarat.com:9962/" /> 	
+<station name="تلاوات خاشعة 1" image="https://raw.githubusercontent.com/nhaila66/a/master/401.png" link="http://islam2day.tv:3000/" /> 	
+<station name="تلاوات خاشعة 2" image="https://raw.githubusercontent.com/nhaila66/a/master/402.png" link="http://live.mp3quran.net:9992/" /> 	
+<station name="اناشيد دينية" image="https://raw.githubusercontent.com/nhaila66/a/master/403.png" link="http://islam2day.tv:8000/" /> 	
+<station name="الشيخ مشاري بن راشد العفاسي" image="https://raw.githubusercontent.com/nhaila66/a/master/3afasi.jpg" link="http://server2.quraan.us:9922/;*.mp3" />
+<station name="الشيخ محمود خليل الحصري" image="https://raw.githubusercontent.com/nhaila66/a/master/elhasri.jpg" link="http://quraan.us:9920/;*.mp3" />
+<station name="الشيخ محمود علي البنا" image="https://raw.githubusercontent.com/nhaila66/a/master/elbanna.jpg" link="http://server2.quraan.us:9788/" />
+<station name="اسلام صبحي" image="https://raw.githubusercontent.com/nhaila66/a/master/sobhi.jpg" link="https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3" />
+<station name="ادعية واذكار" image="https://raw.githubusercontent.com/nhaila66/a/master/doaa.jpg" link="http://radio10.tarat.com:9358/" /> 	
+<station name="برنامج لقاء الايمان" image="https://raw.githubusercontent.com/nhaila66/a/master/leqaa-aleman.png" link="http://radio2.tarat.com:9980/" /> 	
+<station name="اذاعة القران الكريم من القاهرة" image="https://raw.githubusercontent.com/nhaila66/a/master/0.png" link="http://vps775737.ovh.net:8000/q.ogg" /> 	
+<station name="محمد متولي الشعراوي" image="https://raw.githubusercontent.com/nhaila66/a/master/esha3rawi.jpg" link="http://quraan.us:9888/" />
+<station name="عبدالباسط عبد الصمد" image="https://raw.githubusercontent.com/nhaila66/a/master/abdelbasit.jpg" link="http://quraan.us:9916/" />
+<station name="محمد رفعت" image="https://raw.githubusercontent.com/nhaila66/a/master/rrfaat.jpg" link="http://radio10.tarat.com:9328/;" /> 	
+<station name="محمد صديق المنشاوي" image="https://raw.githubusercontent.com/nhaila66/a/master/manchawi.jpg" link="http://server2.quraan.us:9918/;*.mp3" />
+<station name="محمد صديق المنشاوي (المصحف المعلم)" image="https://raw.githubusercontent.com/nhaila66/a/master/manchawi.jpg" link="http://server2.quraan.us:9308/;*.mp3" />
+<station name="اذكار الصباح" image="https://raw.githubusercontent.com/nhaila66/a/master/xxx.jpg" link="http://radio2.tarat.com:9300/;" /> 	
+<station name="اذكار المساء" image="https://raw.githubusercontent.com/nhaila66/a/master/yyy.jpg" link="http://radio2.tarat.com:9302/;" />
 <station name="صوت الإيمان" image="https://raw.githubusercontent.com/nhaila66/a/master/صوت الإيمان.jpg" link="http://www.emanlive.com:8000/;" /> 
 <station name="إذاعة فتاوى الشيخ ابن عثيمين" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ ابن عثيمين.jpg" link="http://server2.quraan.us:9890/;*.mp3" />  
 <station name="إذاعة القارئ أحمد العجمي" image="https://raw.githubusercontent.com/nhaila66/a/master/al ajmi.jpg" link="http://server2.quraan.us:9852/;*.mp3" /> 
