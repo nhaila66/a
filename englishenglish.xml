@@ -1,6 +1,6 @@
 <channel> 
 <station name="SNRT Cha\u00eene Nationale" image="https://raw.githubusercontent.com/nhaila66/a/master/idaawataniya.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8" />
-<station name="إذاعة محمد السادس للقرآن الكريم" image="https://raw.githubusercontent.com/nhaila66/a/master/m6coran.jpg" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8" />
+<station name="Med Radio" image="https://static.mytuner.mobi/media/radios-150px/YUq4BhxnP7.png" link="http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3" />
 <station name="SNRT Cha\u00eene Amazigh" image="https://raw.githubusercontent.com/nhaila66/a/master/idaatamazight.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8" />
 <station name="SNRT Cha\u00eene Inter" image="https://raw.githubusercontent.com/nhaila66/a/master/chaineinter.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8" />
 <station name="BeurFM" image="https://raw.githubusercontent.com/nhaila66/a/master/beurfm.jpg" link="http://broadcast.infomaniak.net/beurfm-high.mp3" /> 
