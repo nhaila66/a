@@ -65,22 +65,23 @@
 <station name="HITRADIO MGHARBA" image="https://raw.githubusercontent.com/nhaila66/a/master/mgharba.png" link="http://mgharba.ice.infomaniak.ch/mgharba-128.mp3" />
 <station name="HITRADIO RB" image="https://raw.githubusercontent.com/nhaila66/a/master/rnb.png" link="http://rnb.ice.infomaniak.ch/rnb-128.mp3" />
 <station name="Chada FM" image="https://raw.githubusercontent.com/nhaila66/a/master/chadafm.png" link="http://broadcast.infomaniak.net/chadafm-high.mp3" />
- <station name="صوت الإيمان" image="/صوت الإيمان.jpg" link="http://www.emanlive.com:8000/;" /> 
-<station name="إذاعة فتاوى الشيخ ابن عثيمين" image="/الشيخ ابن عثيمين.jpg" link="http://server2.quraan.us:9890/;*.mp3" />  
-<station name="إذاعة القارئ أحمد العجمي" image="/al ajmi.jpg" link="http://server2.quraan.us:9852/;*.mp3" /> 
-<station name="إذاعة القارئ / عبدالرحمن السديس" image="/al sudais.jpg" link="http://quraan.us:9850/;*.mp3" /> 
-<station name="إذاعة الشيخ سعود الشريم" image="/sa3od cherim.jpg" link="http://quraan.us:9848/;*.mp3" /> 
-<station name=" إذاعة الرقية الشرعية 1" image="/ro9ia.jpg" link="http://quraan.us:9798/;*.mp3" /> 
-<station name="إذاعة القارئ فارس عباد" image="/fares 3obad.jpg" link="http://server2.quraan.us:9904/;*.mp3" />  
-<station name="إذاعة الشيخ وديع اليمني" image="/cheikh wadi3 yamani.jpg" link="http://server2.quraan.us:9784/;*.mp3" /> 
-<station name="إذاعة الشيخ خالد الجليل" image="/cheikh al jalil.jpg" link="http://server2.quraan.us:9794/;*.mp3" /> 
-<station name="إذاعة الشيخ عبد الرحمن العوسي" image="/cheikh al 3osi.jpg" link="http://quraan.us:9778/;*.mp3" /> 
-<station name="إذاعة الشيخ القحطاني" image="/cheikh el 97tani.jpg" link="http://quraan.us:9900/;*.mp3" /> 
-<station name="إذاعة الشيخ سعد الغامدي" image="/cheikh el Gamdi.jpg" link="http://server2.quraan.us:9854/;*.mp3" /> 
-<station name="إذاعة الشيخ أبو بكر الشاطري" image="/abo bakr al chatiri.jpg" link="http://quraan.us:9892/;*.mp3" /> 
-<station name="إذاعة الشيخ خليفة الطنيجي" image="/khalifa tnigi.jpg" link="http://server2.quraan.us:9838/;*.mp3" />
-<station name="إذاعة الشيخ محمد الطبلاوي" image="/cheikh tablawi.jpg" link="http://quraan.us:9882/;*.mp3" /> 
-<station name="إذاعة الشيخ علي الحذيفي" image="/chikh al hodaifi.jpg" link="http://quraan.us:9844/;*.mp3" />  
-<station name="إذاعة الشيخ عبد الباري الثبيتي" image="/abd albari tbiti.jpg" link="http://server2.quraan.us:9790/;*.mp3" />   
-<station name="إذاعة الشيخ عبدالله بصفر" image="/Abdullah Ibn Ali Basfar.jpg" link="http://quraan.us:9846/;*.mp3" />
+<station name="صوت الإيمان" image="https://raw.githubusercontent.com/nhaila66/a/master/صوت الإيمان.jpg" link="http://www.emanlive.com:8000/;" /> 
+<station name="إذاعة فتاوى الشيخ ابن عثيمين" image="https://raw.githubusercontent.com/nhaila66/a/master/الشيخ ابن عثيمين.jpg" link="http://server2.quraan.us:9890/;*.mp3" />  
+<station name="إذاعة القارئ أحمد العجمي" image="https://raw.githubusercontent.com/nhaila66/a/master/al ajmi.jpg" link="http://server2.quraan.us:9852/;*.mp3" /> 
+<station name="إذاعة القارئ / عبدالرحمن السديس" image="https://raw.githubusercontent.com/nhaila66/a/master/al sudais.jpg" link="http://quraan.us:9850/;*.mp3" /> 
+<station name="إذاعة الشيخ سعود الشريم" image="https://raw.githubusercontent.com/nhaila66/a/master/sa3od cherim.jpg" link="http://quraan.us:9848/;*.mp3" /> 
+<station name=" إذاعة الرقية الشرعية 1" image="https://raw.githubusercontent.com/nhaila66/a/master/ro9ia.jpg" link="http://quraan.us:9798/;*.mp3" /> 
+<station name="إذاعة القارئ فارس عباد" image="https://raw.githubusercontent.com/nhaila66/a/master/fares 3obad.jpg" link="http://server2.quraan.us:9904/;*.mp3" />  
+<station name="إذاعة الشيخ وديع اليمني" image="https://raw.githubusercontent.com/nhaila66/a/master/cheikh wadi3 yamani.jpg" link="http://server2.quraan.us:9784/;*.mp3" /> 
+<station name="إذاعة الشيخ خالد الجليل" image="https://raw.githubusercontent.com/nhaila66/a/master/cheikh al jalil.jpg" link="http://server2.quraan.us:9794/;*.mp3" /> 
+<station name="إذاعة الشيخ عبد الرحمن العوسي" image="https://raw.githubusercontent.com/nhaila66/a/master/cheikh al 3osi.jpg" link="http://quraan.us:9778/;*.mp3" /> 
+<station name="إذاعة الشيخ القحطاني" image="https://raw.githubusercontent.com/nhaila66/a/master/cheikh el 97tani.jpg" link="http://quraan.us:9900/;*.mp3" /> 
+<station name="إذاعة الشيخ سعد الغامدي" image="https://raw.githubusercontent.com/nhaila66/a/master/cheikh el Gamdi.jpg" link="http://server2.quraan.us:9854/;*.mp3" /> 
+<station name="إذاعة الشيخ أبو بكر الشاطري" image="https://raw.githubusercontent.com/nhaila66/a/master/abo bakr al chatiri.jpg" link="http://quraan.us:9892/;*.mp3" /> 
+<station name="إذاعة الشيخ خليفة الطنيجي" image="https://raw.githubusercontent.com/nhaila66/a/master/khalifa tnigi.jpg" link="http://server2.quraan.us:9838/;*.mp3" />
+<station name="إذاعة الشيخ محمد الطبلاوي" image="https://raw.githubusercontent.com/nhaila66/a/master/cheikh tablawi.jpg" link="http://quraan.us:9882/;*.mp3" /> 
+<station name="إذاعة الشيخ علي الحذيفي" image="https://raw.githubusercontent.com/nhaila66/a/master/chikh al hodaifi.jpg" link="http://quraan.us:9844/;*.mp3" />  
+<station name="إذاعة الشيخ عبد الباري الثبيتي" image="https://raw.githubusercontent.com/nhaila66/a/master/abd albari tbiti.jpg" link="http://server2.quraan.us:9790/;*.mp3" />   
+<station name="إذاعة الشيخ عبدالله بصفر" image="https://raw.githubusercontent.com/nhaila66/a/master/Abdullah Ibn Ali Basfar.jpg" link="http://quraan.us:9846/;*.mp3" /> 
+
 </channel>
