@@ -6,7 +6,7 @@
 <station name="BeurFM" image="https://raw.githubusercontent.com/nhaila66/a/master/beurfm.jpg" link="https://streamer.eagrpservices.com/audio/mfmradio.ogg" /> 
 <station name="Radio 2M" image="https://raw.githubusercontent.com/nhaila66/a/master/2mradio.jpg" link="https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist.m3u8" />
 <station name="Medi1 Radio" image="https://raw.githubusercontent.com/nhaila66/a/master/midi1.jpg" link="http://streaming07.mit.ovea.com/medi1" />
-<station name="Radio MFM" image="https://raw.githubusercontent.com/nhaila66/a/master/mfm.png" link="https://streamer.eagrpservices.com/audio/mfmradio.ogg" />
+<station name="MFMRadio" image="https://raw.githubusercontent.com/nhaila66/a/master/mfm.png" link="https://streamer.eagrpservices.com/audio/mfmradio.ogg" />
 <station name="Radio INWI Charki" image="https://raw.githubusercontent.com/nhaila66/a/master/radiomars.jpeg" link="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CHARKI.mp3" />
 <station name="Radio INWI Dance" image="https://raw.githubusercontent.com/nhaila66/a/master/radiomars.jpeg" link="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_DANCE.mp3" />
 <station name="Radio INWI Hit" image="https://raw.githubusercontent.com/nhaila66/a/master/radiomars.jpeg" link="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HIT.mp3" />
