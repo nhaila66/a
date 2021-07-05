@@ -3,7 +3,7 @@
 <station name="Med Radio" image="https://static.mytuner.mobi/media/radios-150px/YUq4BhxnP7.png" link="http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3" />
 <station name="CapRadio" image="https://raw.githubusercontent.com/nhaila66/a/master/capradio.png" link="https://eu8.fastcast4u.com/proxy/caprad00?mp=/1" />
 <station name="ChadaFm" image="https://static.mytuner.mobi/media/radios-150px/wv2FUEUrgH.png" link="https://chadafm.ice.infomaniak.ch/chadafm-high.mp3" />
-<station name="BeurFM" image="https://raw.githubusercontent.com/nhaila66/a/master/beurfm.jpg" link="https://streamer.eagrpservices.com/audio/mfmradio.ogg" /> 
+<station name="011.FM" image="https://static.mytuner.mobi/media/tvos_radios/kfrvk3wzcwwh.png" link="https://listen.011fm.com/stream18" /> 
 <station name="Radio 2M" image="https://raw.githubusercontent.com/nhaila66/a/master/2mradio.jpg" link="https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist.m3u8" />
 <station name="Medi1 Radio" image="https://raw.githubusercontent.com/nhaila66/a/master/midi1.jpg" link="http://streaming07.mit.ovea.com/medi1" />
 <station name="MFMRadio" image="https://raw.githubusercontent.com/nhaila66/a/master/mfm.png" link="https://streamer.eagrpservices.com/audio/mfmradio.ogg" />
