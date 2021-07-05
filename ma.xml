@@ -1,8 +1,8 @@
 <channel> 
-<station name="SNRT Cha\u00eene Nationale" image="/idaawataniya.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8" />
-<station name="إذاعة محمد السادس للقرآن الكريم" image="/m6coran.jpg" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8" />
-<station name="SNRT Cha\u00eene Amazigh" image="/idaatamazight.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8" />
-<station name="SNRT Cha\u00eene Inter" image="/chaineinter.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8" />
+<station name="SNRT Cha\u00eene Nationale" image="https://raw.githubusercontent.com/nhaila66/a/master//idaawataniya.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8" />
+<station name="إذاعة محمد السادس للقرآن الكريم" image="https://raw.githubusercontent.com/nhaila66/a/master//m6coran.jpg" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8" />
+<station name="SNRT Cha\u00eene Amazigh" image="https://raw.githubusercontent.com/nhaila66/a/master//idaatamazight.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8" />
+<station name="SNRT Cha\u00eene Inter" image="https://raw.githubusercontent.com/nhaila66/a/master//chaineinter.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8" />
 <station name="BeurFM" image="/beurfm.jpg" link="http://broadcast.infomaniak.net/beurfm-high.mp3" /> 
 <station name="Radio 2M" image="/2mradio.jpg" link="https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist.m3u8" />
 <station name="Medi1 Radio" image="/midi1.jpg" link="http://streaming07.mit.ovea.com/medi1" />
@@ -32,7 +32,7 @@
 <station name="Radio Aswat" image="/aswat.jpg" link="http://broadcast.ice.infomaniak.ch/aswat-high.mp3" />
 <station name="Radio Orient" image="/z_radio_orient_fm.png" link="http://streaming.radionomy.com/OrientFM" />    
 <station name="Cap Radio" image="/cap radio.png" link="http://51.255.235.165:5548/stream/1/" /> 
-<station name="Maroc Music" image="/Maroc-Music.jpg" link="http://listen.radionomy.com/marocmusic" />
+<station name="Maroc Music" image="https://raw.githubusercontent.com/nhaila66/a/master//Maroc-Music.jpg" link="http://listen.radionomy.com/marocmusic" />
  
 <station name="Radio France-Maghreb" image="/france%20maghrib.jpeg" link="http://broadcast.infomaniak.net/francemaghreb-high.mp3" />
 <station name="Radio France-Maghreb 2" image="/France-Maghreb-2.png" link="http://broadcast.infomaniak.net/francemaghreb2-high.mp3" />
