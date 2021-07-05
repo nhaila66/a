@@ -1,7 +1,7 @@
 <channel> 
 <station name="Aswat" image="https://static.mytuner.mobi/media/tvos_radios/kQHmMyteZb.png" link="http://broadcast.ice.infomaniak.ch/aswat-high.mp3" />
 <station name="Med Radio" image="https://static.mytuner.mobi/media/radios-150px/YUq4BhxnP7.png" link="http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3" />
-<station name="SNRT Cha\u00eene Amazigh" image="https://raw.githubusercontent.com/nhaila66/a/master/idaatamazight.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8" />
+<station name="CapRadio" image="https://raw.githubusercontent.com/nhaila66/a/master/capradio.png" link="https://eu8.fastcast4u.com/proxy/caprad00?mp=/1" />
 <station name="SNRT Cha\u00eene Inter" image="https://raw.githubusercontent.com/nhaila66/a/master/chaineinter.png" link="http://cdn-hls.globecast.tv/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8" />
 <station name="BeurFM" image="https://raw.githubusercontent.com/nhaila66/a/master/beurfm.jpg" link="http://broadcast.infomaniak.net/beurfm-high.mp3" /> 
 <station name="Radio 2M" image="https://raw.githubusercontent.com/nhaila66/a/master/2mradio.jpg" link="https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist.m3u8" />
